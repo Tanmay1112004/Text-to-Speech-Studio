@@ -4,6 +4,10 @@ A **fast, hybrid, multilingual Text-to-Speech (TTS)** web app that lets you type
 
 Built with **Python, Gradio, gTTS, Pyttsx3, and Deep-Translator**.
 
+app demo :- 
+
+![App Preview](https://github.com/Tanmay1112004/Text-to-Speech-Studio/blob/main/Screenshot%202025-08-09%20095523.png?raw=true)
+
 ---
 
 ## ✨ Features
