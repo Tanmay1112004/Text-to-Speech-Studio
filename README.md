@@ -22,6 +22,6 @@ app demo :-
 
 ## 🛠 Installation
 ```bash
-git clone https://github.com/YOUR-USERNAME/polyglot-voice.git
+git clone https://github.com/Tanmay1112004/polyglot-voice.git
 cd polyglot-voice
 pip install -r requirements.txt
