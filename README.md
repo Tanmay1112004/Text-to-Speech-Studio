@@ -8,7 +8,7 @@ Built with **Python**, **Gradio**, **gTTS**, **pyttsx3**, and **Deep Translator*
 
 ## Demo Images 
 
-![demo]()
+![demo](https://github.com/Tanmay1112004/Text-to-Speech-Studio/blob/main/Screenshot%202025-08-09%20095523.png)
 
 
 ---
