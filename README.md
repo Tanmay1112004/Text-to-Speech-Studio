@@ -200,7 +200,13 @@ This project is licensed under the **MIT License**.
 
 ---
 
+## 👨‍💻 Author
 
+**Tanmay Kshirsagar**
+
+* GitHub: https://github.com/Tanmay1112004
+
+If you found this project helpful, consider giving it a ⭐ on GitHub!
 
 ---
 
